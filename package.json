@@ -1,0 +1,38 @@
+{
+  "name": "hello-d3-es6-webpack2-gulp",
+  "version": "1.0.0",
+  "description": "hello-d3-es6-webpack2-gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saun4app/hello-d3-es6-webpack2.git"
+  },
+  "keywords": [
+    "d3",
+    "webpack",
+    "webpack2",
+    "gulp",
+    "ES6",
+    "hello",
+    "javascript",
+    "js"
+  ],
+  "author": "Saun Shewanown <saun4app@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saun4app/hello-d3-es6-webpack2/issues"
+  },
+  "homepage": "https://github.com/saun4app/hello-d3-es6-webpack2#readme",
+  "dependencies": {
+    "d3": "^4.7.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "webpack": "^2.2.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
