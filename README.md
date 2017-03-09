@@ -109,10 +109,10 @@ chart_obj.draw('el_chart');
 <html>
 <head>
     <title>d3 demo ES6 webpack 2 </title>
-    <script src='browser_bundle.js'></script>    
 </head>
 <body>
     <div id='el_chart'></div>
+    <script src='browser_bundle.js'></script>    
 </body>
 </html>
 ```
