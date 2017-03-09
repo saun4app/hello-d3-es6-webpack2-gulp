@@ -23,9 +23,9 @@
   "author": "Saun Shewanown <saun4app@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saun4app/hello-d3-es6-webpack2/issues"
+    "url": "https://github.com/saun4app/hello-d3-es6-webpack2-gulp/issues"
   },
-  "homepage": "https://github.com/saun4app/hello-d3-es6-webpack2#readme",
+  "homepage": "https://github.com/saun4app/hello-d3-es6-webpack2-gulp#readme",
   "dependencies": {
     "d3": "^4.7.1"
   },

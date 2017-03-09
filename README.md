@@ -1,5 +1,5 @@
 # hello-d3-es6-webpack2-gulp
-`hello-d3-es6-webpack2-gulp` shows an example of using `webpack 2` and `gulp` to create a browser ready JavaScript file from a ES6 class.  
+`hello-d3-es6-webpack2-gulp` shows an example of using `webpack 2` and `gulp` to create a browser ready JavaScript file (`browser_bundle.js`) from a ES6 class.  
 
 <style>
 td { valign:top; }
@@ -68,6 +68,7 @@ d3-demo
 ├── app
 │   └── d3_circle.js
 ├── demo
+│   ├── browser_bundle.js
 │   ├── demo.js
 │   └── index.html
 ├── node_modules
